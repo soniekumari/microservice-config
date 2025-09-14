@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: "Config-Default"
-
 #Configure with eureka registry service
 eureka:
   instance:
